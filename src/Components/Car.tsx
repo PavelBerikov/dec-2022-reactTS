@@ -11,7 +11,7 @@ const Car: FC<IProps> = ({car}) => {
         <div>
             <div>
                 <div>Id - {car.id}</div>
-                <div>Brand - {car.brand}</div>
+                <div>brand - {car.brand}</div>
                 <div>Price - {car.price}$</div>
                 <div>Year - {car.year}</div>
             </div>
